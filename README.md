@@ -33,7 +33,7 @@ https://movie-recommender-system-mqvwzyfxrumh8tmw23jryw.streamlit.app
 
 ## 📸 Screenshots
 
-![Movie Recommender](images/home2.png)
+![Movie Recommender](Images/home2.png)
 
 ## 👨‍💻 Author
 Lokesh Pandhi
