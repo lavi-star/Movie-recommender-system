@@ -25,6 +25,15 @@ A content-based movie recommender system built using Python, Machine Learning, a
 pip install -r requirements.txt
 streamlit run app.py
 ```
+## 🌐 Live Demo
+
+https://movie-recommender-system-mqvwzyfxrumh8tmw23jryw.streamlit.app
+
+---
+
+## 📸 Screenshots
+
+![Movie Recommender](images/home2.png)
 
 ## 👨‍💻 Author
 Lokesh Pandhi
